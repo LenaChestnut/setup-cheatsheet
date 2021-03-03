@@ -2,7 +2,7 @@
 
 ## package.json
 
-```json
+```
 {
 	"name": "project-setup",
 	"version": "1.0.0",
@@ -312,7 +312,7 @@ module.exports = merge(common, {
 
 Using JSON format allows safely use Prettier with enabled singleQuote rule.
 
-```json
+```
 {
 	// environment provides predefined global variables
 	"env": {
